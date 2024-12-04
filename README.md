@@ -39,14 +39,6 @@
 
 ---
 
-**Libraries:**  
-- TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Keras, PySpark, NLTK  
-
-**Developer Tools:**  
-- Git, AWS, VS Code, IntelliJ, Google Colab  
-
----
-
 ## 💼 **Experience**  
 
 ### **Web Developer Intern**  
