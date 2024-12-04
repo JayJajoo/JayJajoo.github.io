@@ -1,85 +1,96 @@
-# Jay Jajoo
+# 🌟 Jay Jajoo  
 
-🎓 **Master of Science in Data Science**  
-📍 Northeastern University (Khoury College), Boston, MA  
-🌟 CGPA: 4.0/4.0  
-📅 Sept 2024 – Dec 2026  
+### **Data Scientist | Machine Learning Enthusiast | Full-Stack Developer**  
 
-💻 **B.Tech. in CSE Core**  
-📍 Vellore Institute of Technology, Vellore, Tamil Nadu  
-🌟 CGPA: 9.05/10  
-📅 Sept 2020 – May 2024  
+📧 **Email:** [jayjajoo02@gmail.com](mailto:jayjajoo02@gmail.com)  
+🔗 **LinkedIn:** [Jay Jajoo](https://www.linkedin.com/in/jay-jajoo-64958b15a)  
+🐙 **GitHub:** [Jay Jajoo](https://github.com/JayJajoo)  
+📞 **Phone:** +1-857-351-1933  
 
 ---
 
-## 🔗 Connect with Me  
-- **Phone:** +1-857-351-1933  
-- **Email:** [jayjajoo02@gmail.com](mailto:jayjajoo02@gmail.com)  
-- **LinkedIn:** [Jay Jajoo](https://www.linkedin.com/in/jay-jajoo-64958b15a)  
-- **GitHub:** [Jay Jajoo](https://github.com/JayJajoo)  
+## 📚 **Education**  
+
+🎓 **Northeastern University (Khoury College)** – Boston, MA  
+**Master of Science in Data Science**  
+- **CGPA:** 4.0/4.0  
+- *Sept 2024 – Dec 2026*  
+
+🎓 **Vellore Institute of Technology** – Vellore, Tamil Nadu  
+**B.Tech. in Computer Science Engineering (Core)**  
+- **CGPA:** 9.05/10  
+- *Sept 2020 – May 2024*  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠 **Technical Skills**  
 
-### **Languages:**  
-- C, C++, Python, JavaScript, Java, PHP, HTML, CSS, MySQL  
+**Programming Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
-### **Frameworks:**  
-- React, Node.js, Express.js, Flask, MongoDB  
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
 
-### **Developer Tools:**  
-- Git, AWS, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Google Colab  
+**Libraries:**  
+- TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Keras, PySpark, NLTK  
 
-### **Libraries:**  
-- TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, Keras, NLTK, PySpark  
+**Developer Tools:**  
+- Git, AWS, VS Code, IntelliJ, Google Colab  
 
 ---
 
-## 💼 Experience  
+## 💼 **Experience**  
 
 ### **Web Developer Intern**  
-📍 *Imagine Web Technologies* – Nashik, Maharashtra  
+**Imagine Web Technologies** – Nashik, Maharashtra  
 📅 *Jun 2022 – Jul 2022*  
-- Developed end-to-end features using the MERN stack, improving user engagement by 10%.  
-- Optimized application performance, reducing load time by 30% and server response times by 24%.  
-- Built a real-time dashboard, enhancing user interaction and satisfaction by 20%.  
+- Developed features using the MERN stack, improving user engagement by 10%.  
+- Optimized performance, reducing load times by 30% and server response times by 24%.  
+- Built a real-time dashboard, boosting user interaction by 20%.  
 
 ---
 
-## 📂 Projects  
+## 📂 **Projects**  
 
-### **Fungi Classification using Deep Learning (ML)**  
+### 🧠 **Fungi Classification using Deep Learning**  
 📅 *Dec 2023 – May 2024*  
-- Engineered a ResNet model for fungal classification, achieving 98.90% accuracy.  
-- Published a research paper in Springer’s IDBA 2024.  
+- Developed a **ResNet deep learning model** achieving 98.90% accuracy.  
+- Published a research paper in *Springer’s IDBA 2024*.  
 
-### **Metamorphic Malware Detection using RNNs**  
+### 🔐 **Metamorphic Malware Detection using RNNs**  
 📅 *Jan 2023 – Feb 2023*  
-- Enhanced malware detection using Bi-LSTM, achieving 93.25% accuracy.  
-- Research published in IEEE ICDSNS 2023 on Sept 26, 2023.  
+- Enhanced detection using **Bi-LSTM**, achieving 93.25% accuracy.  
+- Published in *IEEE ICDSNS 2023* on Sept 26, 2023.  
 
-### **Simplify Amazon (ML and Web Dev)**  
+### 🛍️ **Simplify Amazon (ML and Web Dev)**  
 📅 *Jan 2023 – Feb 2023*  
-- Automated review scraping and sentiment classification with 91% accuracy using Logistic Regression.  
-- Used OpenAI API for product summaries, reducing analysis time by 25%.  
+- Automated product review scraping using **BeautifulSoup**.  
+- Utilized OpenAI API for summarization, reducing analysis time by 25%.  
 
-### **Toxic Comment Classifier (ML)**  
+### 💬 **Toxic Comment Classifier**  
 📅 *Oct 2022 – Nov 2022*  
-- Built an LSTM-based model to classify comments into six toxic categories with 96.15% accuracy.  
+- Built an **LSTM model** to classify comments with 96.15% accuracy.  
 
-### **Garment’s E-commerce Platform (Web Development)**  
+### 🛒 **Garment’s E-commerce Platform**  
 📅 *Jan 2024 – Feb 2024*  
-- Designed an e-commerce platform with authentication, shopping cart, and dynamic GST calculations.  
-- Reduced company expenses by 20% and improved inventory management efficiency.  
+- Designed a MERN stack-based platform, reducing company expenses by 20%.  
+- Integrated dynamic GST calculations and real-time inventory tracking.  
 
 ---
 
-## 🏆 Achievements  
+## 🏆 **Achievements**  
 
-- **Certified AWS Solutions Architect:** Achieved a score of 793/1000.  
-- **Published Research Paper in IEEE - ICDSNS 2023:** Performance Comparison of RNNs for Metamorphic Malwares.  
+- 🏅 **AWS Solutions Architect Certification** – Scored 793/1000.  
+- 📜 **Research Publication in IEEE ICDSNS 2023** – *Performance Comparison of RNNs for Metamorphic Malware Detection.*  
 
 ---
 
-Feel free to explore my projects and connect with me for collaboration! 🚀
+### 🌟 *Let’s Collaborate and Build Something Amazing!* 🌟
