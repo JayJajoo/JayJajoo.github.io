@@ -1,4 +1,3 @@
-# 🌟 Jay Jajoo  
 ### **Data Scientist | Machine Learning Enthusiast | Full-Stack Developer**
 
 📧 **Email:** [jayjajoo02@gmail.com](mailto:jayjajoo02@gmail.com)  
