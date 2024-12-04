@@ -58,24 +58,24 @@ contributing to an enhanced overall user experience.
 - Engineered a highly accurate ResNet deep learning model for fungal classification, achieving 98.90% accuracy. Fine-tuned hyper-parameters to optimize the model’s performance, reaching 92.29% accuracy and 90.46% precision. 
 - Presented a research paper on this project, accepted for publication in Springer’s IDBA 2024. Received commendation for the innovative approach, with 85% of attendees expressing interest in future collaboration.  
 
-### 🔐 **Metamorphic Malware Detection using RNNs**  
+### [🔐 **Metamorphic Malware Detection using RNNs**](https://github.com/JayJajoo/Metamorphic-Malware-Detection)  
 📅 *Jan 2023 – Feb 2023*  
 - Hyper-tuned RNN models, including Bi-LSTM, to enhance metamorphic malware detection, achieving 93.25% 
 accuracy and surpassing other RNNs. Key processes encompassed data visualization, hybrid model development. 
 - Submitted research on RNN performance at IEEE ICDSNS 2023, with findings published on 26 Sept 2023. The project showcased significant advancements in malware detection, earning positive recognition within the academic community. 
 
-### 🛍️ **Simplify Amazon (ML and Web Dev)**  
+### [🛍️ **Simplify Amazon (ML and Web Dev)**](https://github.com/JayJajoo/Amazon-Product-Anaysis-App)
 📅 *Jan 2023 – Feb 2023*  
 - Automated the extraction of product reviews from Amazon via advanced web scraping techniques using BeautifulSoup. 
 - A machine learning model was utilized to classify sentiments, resulting in 91% accuracy with Logistic Regression. 
 - OpenAI API was employed for generating overall product summaries from user comments. Data visualization was achieved with Chart.js and D3.js, leading to a 25% reduction in analysis time. 
 
-### 💬 **Toxic Comment Classifier**  
+### [💬 **Toxic Comment Classifier**](https://github.com/JayJajoo/Toxic-Comment-Classifier)
 📅 *Oct 2022 – Nov 2022*  
 - Developed an LSTM-based ML model to classify comments into six toxic categories effectively. The NLTK library was extensively used for natural language processing and data pre-processing tasks. 
 - Applied hyper-parameter tuning techniques to improve overall model efficiency and classification accuracy, achieving a performance of 96.15% on the evaluation dataset.
 
-### 🛒 **Garment’s E-commerce Platform**  
+### [🛒 **Garment’s E-commerce Platform**](https://jgipl.netlify.app/) 
 📅 *Jan 2024 – Feb 2024*  
 - Implemented an e-commerce platform using the MERN stack for seamless shopping experiences to reduce company expenses by 20%. Integrated user features like authentication, shopping cart, and secure checkout with Cashfree. 
 - Admin capabilities incorporated product management, HSN code integration, stock tracking, and invoice generation.
@@ -85,8 +85,8 @@ accuracy and surpassing other RNNs. Key processes encompassed data visualization
 
 ## 🏆 **Achievements**  
 
-- 🏅 **AWS Solutions Architect Certification** – Scored 793/1000.  
-- 📜 **Research Publication in IEEE ICDSNS 2023** – *Exhibited research paper titled Performance Comparison of RNNs for Metamorphic Malwares at the distinguished IEEE conference ICDSNS 2023, published in the IEEE index on 26 Sept. 2023.*  
+- [🏅 **AWS Solutions Architect Certification**](https://www.credly.com/badges/c6b46608-c3c8-405e-a596-36f213dfc558/public_url) – Scored 793/1000.  
+- [📜 **Research Publication in IEEE ICDSNS 2023**](https://drive.google.com/file/d/10P4rC9_63cJoExsjgnd2nQ6RU_2_bqtE/view) – *Exhibited research paper titled Performance Comparison of RNNs for Metamorphic Malwares at the distinguished IEEE conference ICDSNS 2023, published in the IEEE index on 26 Sept. 2023.*  
 
 ---
 
