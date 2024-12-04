@@ -53,7 +53,7 @@ contributing to an enhanced overall user experience.
 
 ## 📂 **Projects**  
 
-### 🧠 **Fungi Classification using Deep Learning**  
+### [🧠 **Fungi Classification using Deep Learning**](https://github.com/JayJajoo/Capstone-project)  
 📅 *Dec 2023 – May 2024*  
 - Engineered a highly accurate ResNet deep learning model for fungal classification, achieving 98.90% accuracy. Fine-tuned hyper-parameters to optimize the model’s performance, reaching 92.29% accuracy and 90.46% precision. 
 - Presented a research paper on this project, accepted for publication in Springer’s IDBA 2024. Received commendation for the innovative approach, with 85% of attendees expressing interest in future collaboration.  
